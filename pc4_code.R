@@ -12,7 +12,6 @@
 #     • reducing redundant preprocessing steps
 #     • improving comments / readability
 #     • writing the submission file using an explicit file connection (open → write → close)
-# - Datasets are not included in GitHub; place them alongside this script or update the paths below.
 
 suppressPackageStartupMessages({
   library(tidyverse)
