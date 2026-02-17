@@ -29,7 +29,7 @@ TRAIN_PATH <- "PC3_small_train_data_v1.csv"
 TEST_PATH  <- "PC4_test_without_response_variable_v1.csv"
 
 OUT_DIR <- "outputs"
-SUBMISSION_PATH <- file.path(OUT_DIR, "pc4_submission.csv")
+SUBMISSION_PATH <- file.path(OUT_DIR, "pc4.csv")
 
 ANON_NAME <- "Richardo"
 STUDENT_ID <- "20902543"
