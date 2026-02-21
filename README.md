@@ -98,9 +98,11 @@ Datasets are not included in this repository.
 
 ## Project Structure
 
+```
 ├── .gitignore
 ├── AIEcon_W2026_Prediction_Competition_4_v1.pdf
 ├── README.md
 ├── pc4.csv
 ├── pc4.pdf
-├── pc4_code.R
+└── pc4_code.R
+```
