@@ -1,6 +1,6 @@
 # ECON 626: Machine Learning for Economists (University of Waterloo)
 
-# Prediction Competition 4 (PC4)  
+# Prediction Competition  
 ## Random Forest Regression for Used-Car Price Prediction
 
 This repository contains my solution to **Prediction Competition 4 (PC4)** for ECON 626 (Machine Learning).  
